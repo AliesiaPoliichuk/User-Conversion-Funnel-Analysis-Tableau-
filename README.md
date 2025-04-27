@@ -17,5 +17,5 @@ This project focused on tracking user progression from **registration to first p
 - Created an interactive and filterable dashboard for dynamic analysis.
 
 ## 🔗 Live Dashboard
-[View Dashboard](https://public.tableau.com/app/profile/aliesia.poliichuk/viz/Homework_25_03_1/Dashboard1)
+[View Dashboard](https://public.tableau.com/app/profile/aliesia.poliichuk/viz/UserConversionFunnelAnalysis_17457382148350/Dashboard1#1)
 
